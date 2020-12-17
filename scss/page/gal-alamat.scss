@@ -1,0 +1,66 @@
+.gal-alamat {
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+	max-width: 80%;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+
+.galeri {
+	display: flex;
+	box-sizing: border-box;
+	width: 50%;
+	margin: 0 auto;
+	flex-direction: column;
+	margin-right: 20px;
+}
+
+.galeri h1 {
+	padding-bottom: 10px;
+	border-bottom: 5px solid #ccc;
+	margin-bottom: 20px;
+}
+
+.isi-galeri {
+	float: left;
+	width: 100%;
+	height: auto;
+	box-sizing: border-box;
+}
+
+.isi-galeri img {
+	height: 190px;
+	width: auto;
+}
+
+.alamat {
+	display: flex;
+	box-sizing: border-box;
+	justify-content: center;
+	width: 50%;
+	margin: 0 auto;
+	flex-direction: column;
+	margin-right: 20px;
+}
+
+.alamat h1 {
+	padding-bottom: 10px;
+	border-bottom: 5px solid #ccc;
+	margin-bottom: 20px;
+}
+
+.isi-alamat {
+	display: flex;
+	width: 100%;
+	height: auto;
+}
+
+.maps {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 390px;
+	width: 100%;
+	float: left;
+}

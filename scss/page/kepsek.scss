@@ -1,0 +1,41 @@
+.kepsek {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding-left: 35%;
+	padding-right: 35%
+}
+
+.isi {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 120px;
+	padding-right: 120px;
+}
+
+.tombol {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	width: 20%;
+	padding-top: 30px;
+}
+
+.tbl1 {
+	border: 1px solid #0093dd;
+	background-color: #0093dd;
+	padding:10px 20px;
+	margin-right: 10px;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.tbl1:hover {
+	background-color: transparent;
+	color: black;
+}

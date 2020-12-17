@@ -1,0 +1,51 @@
+.kontak {
+	border-top: 5px solid #ccc;
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.kontak a {
+	text-decoration: none;
+	font-size: 15px;
+	color: #424242;
+}
+
+.kontak a:hover {
+	color: #0093dd;;
+}
+
+.kontak .hal-umum {
+	width: 25%;
+	margin-top: 50px;
+}
+
+.kontak .hal-umum h3 {
+	margin-bottom: 15px;
+}
+
+.kontak .contact {
+	width: 25%;
+	margin-top: 50px;
+}
+
+.kontak .contact h3 {
+	margin-bottom: 15px;
+}
+
+.kontak .sosial {
+	width: 25%;
+	margin-top: 50px;
+}
+
+.kontak .sosial h3 {
+	margin-bottom: 15px;
+}
+
+.kontak .sosial img {
+	width: 50px;
+	float: left;
+	margin-right: 10px;
+}

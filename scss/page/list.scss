@@ -1,0 +1,49 @@
+.list {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	margin-top: 30px;
+}
+
+.list a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #000;
+}
+
+.list a:hover {
+	color: #0093dd;
+}
+
+.list .fasilitas {
+	border-bottom: 5px solid #0093dd;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+.list .lokasi {
+	border-bottom: 5px solid #0093dd;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+.list .sejarah {
+	border-bottom: 5px solid #0093dd;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+.list .prestasi {
+	border-bottom: 5px solid #0093dd;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 15px;
+	text-align: center;
+}
